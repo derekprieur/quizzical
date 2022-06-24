@@ -10,6 +10,7 @@ export default function QuizPage(props) {
     }, [])
 
     function StoreQuestions() {
+
         return [
             {
                 question: "How would one say goodbye in Spanish?",
